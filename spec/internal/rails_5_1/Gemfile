@@ -4,3 +4,5 @@ gem 'pg'
 gem 'rails', '~> 5.1.1'
 
 gem 'safer_rails_console', path: '../../../'
+
+gem 'pry-rails', group: :pry
